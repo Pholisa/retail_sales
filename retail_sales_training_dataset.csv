@@ -1,0 +1,504 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,Quantity,Unit_Price_ZAR,Discount_Rate,Sales_Channel,Payment_Method
+ORD-10001,2025-02-01,CUST-1084,Hoodie,Clothing,,3,44.99,0.1,Marketplace,EFT
+ORD-10002,2025-07-02,CUST-1045,Perfume,Beauty,Free State,1,64.99,0.0,In-store,EFT
+ORD-10003,2025-11-21,CUST-1008,Blender,Home & Kitchen,Eastern Cape,2,49.99,0.05,In-store,EFT
+ORD-10004,2025-09-05,CUST-1094,Coffee Maker,Home & Kitchen,Western Cape,5,89.99,0.1,Online,Card
+ORD-10005,2025-05-14,CUST-1117,Headphones,Electronics,Gauteng,4,59.99,0.05,Online,Card
+ORD-10006,2025-05-01,CUST-1028,Keyboard,Electronics,KwaZulu-Natal,1,34.5,0.0,Online,Digital Wallet
+ORD-10007,2025-06-08,CUST-1097,T-Shirt,Clothing,Gauteng,2,19.99,0.1,Online,EFT
+ORD-10008,2025-10-18,CUST-1095,USB-C Hub,Electronics,KwaZulu-Natal,1,42.0,0.0,In-store,EFT
+ORD-10009,2025-03-31,CUST-1014,Air Fryer,Home & Kitchen,KwaZulu-Natal,3,119.0,0.0,Online,Cash
+ORD-10010,2025-02-03,CUST-1068,Hoodie,Clothing,Gauteng,4,44.99,0.05,Online,Card
+ORD-10011,2025-01-13,CUST-1029,Keyboard,Electronics,Western Cape,3,34.5,0.1,Online,Card
+ORD-10012,2025-12-30,CUST-1080,T-Shirt,Clothing,Gauteng,3,19.99,0.1,In-store,Card
+ORD-10013,2025-09-12,CUST-1056,Wireless Mouse,Electronics,Western Cape,1,18.99,0.05,In-store,Card
+ORD-10014,2025-03-29,CUST-1037,Jeans,Clothing,KwaZulu-Natal,3,54.99,0.0,Online,Card
+ORD-10015,2025-06-30,CUST-1084,Keyboard,Electronics,Gauteng,5,34.5,0.1,Marketplace,EFT
+ORD-10016,2025-01-29,CUST-1012,Sneakers,Clothing,Free State,3,79.99,0.0,Online,Card
+ORD-10017,2025-06-19,CUST-1103,Storage Set,Home & Kitchen,KwaZulu-Natal,3,24.99,0.0,In-store,Card
+ORD-10018,2025-08-18,CUST-1011,T-Shirt,Clothing,Gauteng,3,19.99,0.05,Online,Cash
+ORD-10019,2025-03-05,CUST-1071,Air Fryer,Home & Kitchen,Western Cape,1,119.0,0.0,Marketplace,Cash
+ORD-10020,2025-02-25,CUST-1116,Air Fryer,Home & Kitchen,Gauteng,3,119.0,0.0,In-store,Card
+ORD-10021,2025-02-28,CUST-1069,Air Fryer,Home & Kitchen,Gauteng,3,119.0,0.1,Online,Card
+ORD-10022,2025-05-13,CUST-1100,Storage Set,Home & Kitchen,Eastern Cape,3,24.99,0.0,Online,Cash
+ORD-10023,2025-03-31,CUST-1080,Headphones,Electronics,KwaZulu-Natal,4,59.99,0.0,In-store,Card
+ORD-10024,2025-02-21,CUST-1067,Sunscreen,Beauty,Gauteng,2,13.5,0.0,In-store,EFT
+ORD-10025,2025-08-15,CUST-1062,Coffee Maker,Home & Kitchen,Gauteng,5,89.99,0.0,Marketplace,Card
+ORD-10026,2025-02-25,CUST-1108,Keyboard,Electronics,KwaZulu-Natal,3,34.5,0.15,Marketplace,Digital Wallet
+ORD-10027,2025-05-03,CUST-1080,Blender,Home & Kitchen,Gauteng,2,49.99,0.1,Online,EFT
+ORD-10028,2025-01-12,CUST-1015,Wireless Mouse,Electronics,Eastern Cape,5,18.99,0.0,Online,Card
+ORD-10029,2025-04-13,CUST-1038,Hoodie,Clothing,Eastern Cape,5,44.99,0.0,Marketplace,Cash
+ORD-10030,2025-04-12,CUST-1016,USB-C Hub,Electronics,KwaZulu-Natal,1,42.0,0.0,Online,Cash
+ORD-10031,2025-11-12,CUST-1097,Sneakers,Clothing,KwaZulu-Natal,3,79.99,0.0,In-store,Card
+ORD-10032,2025-12-22,CUST-1037,Headphones,Electronics,Gauteng,5,59.99,0.0,In-store,Digital Wallet
+ORD-10033,2025-08-06,CUST-1067,Storage Set,Home & Kitchen,KwaZulu-Natal,5,24.99,0.0,Online,Card
+ORD-10034,2025-03-08,CUST-1112,Coffee Maker,Home & Kitchen,Eastern Cape,5,89.99,0.05,Online,EFT
+ORD-10035,2025-04-02,CUST-1096,Headphones,Electronics,Western Cape,1,59.99,0.1,In-store,Cash
+ORD-10036,2025-02-13,CUST-1045,Sunscreen,Beauty,Gauteng,4,13.5,0.0,In-store,Digital Wallet
+ORD-10037,2025-12-30,CUST-1090,Air Fryer,Home & Kitchen,Eastern Cape,2,119.0,0.0,Online,Card
+ORD-10038,2025-04-27,CUST-1038,Jeans,Clothing,Western Cape,1,54.99,0.1,Marketplace,Card
+ORD-10039,2025-07-17,CUST-1003,Air Fryer,Home & Kitchen,Western Cape,1,119.0,0.0,Online,Card
+ORD-10040,2025-10-30,CUST-1039,Hoodie,Clothing,Gauteng,4,44.99,0.0,Marketplace,Digital Wallet
+ORD-10041,2025-03-25,CUST-1030,Keyboard,Electronics,KwaZulu-Natal,1,34.5,0.0,Online,Card
+ORD-10042,2025-02-04,CUST-1101,Storage Set,Home & Kitchen,Western Cape,3,24.99,0.0,Marketplace,Card
+ORD-10043,2025-04-28,CUST-1097,Sunscreen,Beauty,Eastern Cape,5,13.5,0.15,In-store,EFT
+ORD-10044,2025-12-19,CUST-1103,USB-C Hub,Electronics,Gauteng,3,42.0,0.0,Online,Cash
+ORD-10045,2025-03-02,CUST-1051,Wireless Mouse,Electronics,Western Cape,1,18.99,0.0,Online,Card
+ORD-10046,2025-03-27,CUST-1036,Blender,Home & Kitchen,Free State,2,49.99,0.05,Marketplace,Cash
+ORD-10047,2025-06-28,CUST-1079,Blender,Home & Kitchen,Eastern Cape,3,49.99,0.1,In-store,Cash
+ORD-10048,2025-08-07,CUST-1084,Coffee Maker,Home & Kitchen,Eastern Cape,4,89.99,0.0,Online,Cash
+ORD-10049,2025-07-10,CUST-1113,Headphones,Electronics,Western Cape,4,59.99,0.0,Marketplace,EFT
+ORD-10050,2025-12-06,CUST-1114,Jeans,Clothing,Gauteng,4,54.99,0.1,In-store,Card
+ORD-10051,2025-01-03,CUST-1069,T-Shirt,Clothing,Gauteng,1,19.99,0.05,In-store,EFT
+ORD-10052,2025-02-20,CUST-1112,Perfume,Beauty,Western Cape,3,64.99,0.05,Online,Card
+ORD-10053,2025-03-18,CUST-1081,Hoodie,Clothing,Gauteng,3,44.99,0.1,Marketplace,EFT
+ORD-10054,2025-04-25,CUST-1019,USB-C Hub,Electronics,Western Cape,2,42.0,0.0,Marketplace,Card
+ORD-10055,2025-12-13,CUST-1113,Coffee Maker,Home & Kitchen,Eastern Cape,4,89.99,0.05,Online,Card
+ORD-10056,2025-06-04,CUST-1015,Face Moisturiser,Beauty,Eastern Cape,4,16.99,0.15,In-store,Card
+ORD-10057,2025-02-04,CUST-1055,T-Shirt,Clothing,Eastern Cape,4,19.99,0.0,Online,Card
+ORD-10058,2025-09-27,CUST-1094,Coffee Maker,Home & Kitchen,Western Cape,2,89.99,0.1,Marketplace,Digital Wallet
+ORD-10059,2025-08-31,CUST-1120,Storage Set,Home & Kitchen,KwaZulu-Natal,5,24.99,0.0,In-store,Card
+ORD-10060,2025-06-15,CUST-1018,Sunscreen,Beauty,Eastern Cape,1,13.5,0.0,Online,Digital Wallet
+ORD-10061,2025-02-27,CUST-1007,Sneakers,Clothing,KwaZulu-Natal,1,79.99,0.0,In-store,Card
+ORD-10062,2025-12-20,CUST-1112,Face Moisturiser,Beauty,Eastern Cape,1,16.99,0.1,online,Digital Wallet
+ORD-10063,2025-09-12,CUST-1061,Keyboard,Electronics,KwaZulu-Natal,2,34.5,0.0,In-store,Digital Wallet
+ORD-10064,2025-01-06,CUST-1033,USB-C Hub,Electronics,KwaZulu-Natal,4,42.0,0.0,Marketplace,Cash
+ORD-10065,2025-03-21,CUST-1107,Wireless Mouse,Electronics,KwaZulu-Natal,4,18.99,0.0,Online,Card
+ORD-10066,2025-07-18,CUST-1095,Keyboard,Electronics,KwaZulu-Natal,5,34.5,0.0,In-store,Card
+ORD-10067,2025-07-16,CUST-1084,Perfume,Beauty,KwaZulu-Natal,2,64.99,0.05,Marketplace,Card
+ORD-10068,2025-02-17,CUST-1015,Air Fryer,Home & Kitchen,Western Cape,3,119.0,0.0,Online,Card
+ORD-10069,2025-12-21,CUST-1050,Storage Set,Home & Kitchen,Gauteng,4,24.99,0.05,Online,Cash
+ORD-10070,2025-06-24,CUST-1057,Storage Set,Home & Kitchen,Western Cape,1,24.99,0.0,In-store,Cash
+ORD-10071,2025-08-14,CUST-1038,Hoodie,Clothing,Eastern Cape,4,44.99,0.05,In-store,Card
+ORD-10072,2025-10-23,CUST-1089,Hoodie,Clothing,Eastern Cape,2,44.99,0.0,Marketplace,Cash
+ORD-10073,2025-07-09,CUST-1101,Blender,Home & Kitchen,Gauteng,4,49.99,0.0,Online,Card
+ORD-10074,2025-07-26,CUST-1041,Sunscreen,Beauty,Western Cape,1,13.5,0.0,Online,EFT
+ORD-10075,2025-06-01,CUST-1045,Keyboard,Electronics,Western Cape,5,34.5,0.1,In-store,Card
+ORD-10076,2025-06-14,CUST-1093,Air Fryer,Home & Kitchen,Gauteng,5,119.0,0.15,In-store,EFT
+ORD-10077,2025-09-04,CUST-1026,Storage Set,Home & Kitchen,Gauteng,4,24.99,0.0,Online,Card
+ORD-10078,2025-03-15,CUST-1101,Sunscreen,Beauty,Free State,5,13.5,0.05,Online,Card
+ORD-10079,2025-01-16,CUST-1053,Blender,Home & Kitchen,Gauteng,1,49.99,0.1,Online,Card
+ORD-10080,2025-03-12,CUST-1036,Sunscreen,Beauty,Gauteng,1,13.5,0.0,In-store,Cash
+ORD-10081,2025-11-08,CUST-1077,Keyboard,Electronics,KwaZulu-Natal,2,34.5,0.1,In-store,EFT
+ORD-10082,2025-11-18,CUST-1041,Headphones,Electronics,Eastern Cape,2,59.99,0.0,In-store,EFT
+ORD-10083,2025-04-22,CUST-1071,Shampoo,Beauty,Eastern Cape,3,8.99,0.1,Online,Cash
+ORD-10084,2025-12-31,CUST-1111,Hoodie,Clothing,KwaZulu-Natal,1,44.99,0.0,Online,Card
+ORD-10085,2025-09-10,CUST-1054,Keyboard,Electronics,Gauteng,1,34.5,0.1,In-store,Card
+ORD-10086,2025-09-18,CUST-1118,Wireless Mouse,Electronics,KwaZulu-Natal,4,18.99,0.05,Online,EFT
+ORD-10087,2025-08-16,CUST-1094,Perfume,Beauty,Eastern Cape,4,64.99,0.15,Online,EFT
+ORD-10088,2025-06-02,CUST-1117,Air Fryer,Home & Kitchen,Free State,3,119.0,0.05,Online,EFT
+ORD-10089,2025-04-19,CUST-1005,Hoodie,Clothing,Eastern Cape,2,44.99,0.0,In-store,Digital Wallet
+ORD-10090,2025-01-28,CUST-1096,Blender,Home & Kitchen,Western Cape,5,49.99,0.0,In-store,EFT
+ORD-10091,2025-01-21,CUST-1045,Shampoo,Beauty,Western Cape,5,8.99,0.0,Online,EFT
+ORD-10092,2025-09-28,CUST-1089,Hoodie,Clothing,Eastern Cape,4,44.99,0.1,Online,Card
+ORD-10093,2025-12-14,CUST-1062,T-Shirt,Clothing,KwaZulu-Natal,5,19.99,0.0,Online,Card
+ORD-10094,2025-06-01,CUST-1103,Perfume,Beauty,Gauteng,4,64.99,0.0,Marketplace,Card
+ORD-10095,2025-07-20,CUST-1107,Jeans,Clothing,Western Cape,2,54.99,0.0,Online,Card
+ORD-10096,2025-08-21,CUST-1036,Jeans,Clothing,Gauteng,5,54.99,0.15,Online,Cash
+ORD-10097,2025-01-23,CUST-1048,Sunscreen,Beauty,Free State,4,13.5,0.05,In-store,Card
+ORD-10098,2025-07-22,CUST-1003,Coffee Maker,Home & Kitchen,Gauteng,1,89.99,0.0,In-store,Card
+ORD-10099,2025-07-03,CUST-1065,Storage Set,Home & Kitchen,Gauteng,5,24.99,0.1,Marketplace,Card
+ORD-10100,2025-12-26,CUST-1090,Storage Set,Home & Kitchen,KwaZulu-Natal,5,24.99,0.0,In-store,Card
+ORD-10101,2025-05-07,CUST-1105,Keyboard,Electronics,Gauteng,2,34.5,0.0,In-store,EFT
+ORD-10102,2025-12-13,CUST-1120,Perfume,Beauty,KwaZulu-Natal,3,64.99,0.0,In-store,Digital Wallet
+ORD-10103,2025-04-27,CUST-1013,Shampoo,Beauty,KwaZulu-Natal,1,8.99,0.05,Marketplace,Cash
+ORD-10104,2025-09-27,CUST-1013,Coffee Maker,Home & Kitchen,Western Cape,1,89.99,0.15,Online,Card
+ORD-10105,2025-01-18,CUST-1007,Blender,Home & Kitchen,Western Cape,3,49.99,0.0,Online,Card
+ORD-10106,2025-06-29,CUST-1048,Jeans,Clothing,Gauteng,2,54.99,0.0,Online,Card
+ORD-10107,2025-04-11,CUST-1059,Face Moisturiser,Beauty,Gauteng,1,16.99,0.0,Online,EFT
+ORD-10108,2025-08-07,CUST-1030,Perfume,Beauty,Gauteng,2,64.99,0.0,In-store,Card
+ORD-10109,2025-06-30,CUST-1056,Coffee Maker,Home & Kitchen,KwaZulu-Natal,5,89.99,0.0,Online,Card
+ORD-10110,2025-12-07,CUST-1023,Wireless Mouse,Electronics,Western Cape,5,18.99,0.0,Online,Cash
+ORD-10111,2025-09-08,CUST-1102,Wireless Mouse,Electronics,Western Cape,3,18.99,0.05,Marketplace,Cash
+ORD-10112,2025-04-17,CUST-1031,USB-C Hub,Electronics,Free State,4,42.0,0.1,Online,Cash
+ORD-10113,2025-02-24,CUST-1039,Face Moisturiser,Beauty,Eastern Cape,2,16.99,0.1,In-store,Card
+ORD-10114,2025-11-11,CUST-1004,Air Fryer,Home & Kitchen,Gauteng,2,119.0,0.0,Online,Card
+ORD-10115,2025-10-29,CUST-1039,Sneakers,Clothing,Eastern Cape,4,79.99,0.05,In-store,Card
+ORD-10116,2025-10-17,CUST-1061,Headphones,Electronics,Free State,4,59.99,0.0,Online,Card
+ORD-10117,2025-07-29,CUST-1108,Perfume,Beauty,Eastern Cape,3,64.99,0.0,In-store,Cash
+ORD-10118,2025-02-18,CUST-1036,Headphones,Electronics,KwaZulu-Natal,1,59.99,0.05,In-store,Card
+ORD-10119,2025-11-03,CUST-1031,T-Shirt,Clothing,KwaZulu-Natal,2,19.99,0.1,In-store,Card
+ORD-10120,2025-04-08,CUST-1092,Hoodie,Clothing,Free State,4,44.99,0.05,Online,Cash
+ORD-10121,2025-06-06,CUST-1049,Wireless Mouse,Electronics,Western Cape,4,18.99,0.0,Marketplace,Card
+ORD-10122,2025-04-07,CUST-1022,Jeans,Clothing,Western Cape,1,54.99,0.15,Marketplace,Digital Wallet
+ORD-10123,2025-08-24,CUST-1106,Keyboard,Electronics,Gauteng,3,34.5,0.05,In-store,EFT
+ORD-10124,2025-06-12,CUST-1013,Hoodie,Clothing,Free State,4,44.99,0.05,Marketplace,EFT
+ORD-10125,2025-06-16,CUST-1003,Wireless Mouse,Electronics,Free State,2,18.99,0.05,Online,EFT
+ORD-10126,2025-05-08,CUST-1074,Perfume,Beauty,KwaZulu-Natal,2,64.99,0.0,Online,Cash
+ORD-10127,2025-05-04,CUST-1046,Perfume,Beauty,Gauteng,3,64.99,0.0,Online,Card
+ORD-10128,2025-09-23,CUST-1030,T-Shirt,Clothing,Western Cape,2,19.99,0.15,In-store,Digital Wallet
+ORD-10129,2025-06-24,CUST-1063,Keyboard,Electronics,Gauteng,2,34.5,0.0,Online,Card
+ORD-10130,2025-09-03,CUST-1060,Coffee Maker,Home & Kitchen,Western Cape,5,89.99,0.05,Online,Card
+ORD-10131,2025-02-08,CUST-1119,Jeans,Clothing,Free State,5,54.99,0.1,Marketplace,Card
+ORD-10132,2025-06-05,CUST-1012,USB-C Hub,Electronics,Eastern Cape,2,42.0,0.05,In-store,Cash
+ORD-10133,2025-02-08,CUST-1103,Wireless Mouse,Electronics,KwaZulu-Natal,2,18.99,0.0,In-store,Card
+ORD-10134,2025-01-12,CUST-1093,Storage Set,Home & Kitchen,Western Cape,3,24.99,0.1,Marketplace,Card
+ORD-10135,2025-03-06,CUST-1102,Perfume,Beauty,Western Cape,1,64.99,0.0,Online,Card
+ORD-10136,2025-07-29,CUST-1105,USB-C Hub,Electronics,Gauteng,4,42.0,0.1,In-store,Card
+ORD-10137,2025-01-28,CUST-1107,Keyboard,Electronics,Eastern Cape,1,34.5,0.1,In-store,Cash
+ORD-10138,2025-05-12,CUST-1016,Blender,Home & Kitchen,Western Cape,3,49.99,0.0,Marketplace,Cash
+ORD-10139,2025-12-17,CUST-1025,Face Moisturiser,Beauty,Gauteng,1,16.99,0.05,Online,Card
+ORD-10140,2025-01-27,CUST-1056,Face Moisturiser,Beauty,Gauteng,2,16.99,0.05,In-store,Card
+ORD-10141,2025-05-16,CUST-1057,Face Moisturiser,Beauty,Western Cape,5,16.99,0.05,Marketplace,Card
+ORD-10142,2025-08-29,CUST-1075,USB-C Hub,Electronics,KwaZulu-Natal,2,42.0,0.1,In-store,Card
+ORD-10143,2025-10-03,CUST-1001,Perfume,Beauty,Free State,3,64.99,0.05,Online,Card
+ORD-10144,2025-10-15,CUST-1076,Storage Set,Home & Kitchen,Gauteng,1,24.99,0.0,Marketplace,Card
+ORD-10145,2025-08-29,CUST-1072,Hoodie,Clothing,Gauteng,3,44.99,0.05,Marketplace,Card
+ORD-10146,2025-08-02,CUST-1005,Wireless Mouse,Electronics,Gauteng,4,18.99,0.1,Marketplace,EFT
+ORD-10147,2025-03-04,CUST-1037,Shampoo,Beauty,Free State,3,8.99,0.05,Online,EFT
+ORD-10148,2025-08-04,CUST-1062,Storage Set,Home & Kitchen,Free State,3,24.99,0.05,Online,Cash
+ORD-10149,2025-04-05,CUST-1016,Air Fryer,Home & Kitchen,Western Cape,3,119.0,0.0,In-store,Cash
+ORD-10150,2025-10-21,CUST-1024,Jeans,Clothing,Eastern Cape,1,54.99,0.0,Marketplace,Card
+ORD-10151,2025-10-07,CUST-1017,T-Shirt,Clothing,Gauteng,1,19.99,0.0,In-store,Digital Wallet
+ORD-10152,2025-10-08,CUST-1115,USB-C Hub,Electronics,KwaZulu-Natal,3,42.0,0.05,Online,Cash
+ORD-10153,2025-06-10,CUST-1083,Air Fryer,Home & Kitchen,Western Cape,5,119.0,0.0,Online,Digital Wallet
+ORD-10154,2025-11-06,CUST-1103,Jeans,Clothing,Gauteng,3,54.99,0.1,In-store,Cash
+ORD-10155,2025-05-28,CUST-1110,Sneakers,Clothing,Free State,2,79.99,0.0,In-store,Digital Wallet
+ORD-10156,2025-02-08,CUST-1058,Sneakers,Clothing,Gauteng,4,79.99,0.1,Online,Cash
+ORD-10157,2025-05-13,CUST-1050,Blender,Home & Kitchen,Western Cape,2,49.99,0.05,In-store,Digital Wallet
+ORD-10158,2025-06-15,CUST-1096,Keyboard,Electronics,Eastern Cape,1,34.5,0.0,Online,EFT
+ORD-10159,2025-04-15,CUST-1024,Wireless Mouse,Electronics,Western Cape,2,18.99,0.15,Online,Cash
+ORD-10160,2025-12-09,CUST-1017,Shampoo,Beauty,Eastern Cape,5,8.99,0.0,Online,Digital Wallet
+ORD-10161,2025-07-30,CUST-1022,Jeans,Clothing,Gauteng,1,54.99,0.1,In-store,Cash
+ORD-10162,2025-01-09,CUST-1120,Sneakers,Clothing,Gauteng,4,79.99,0.15,Online,EFT
+ORD-10163,2025-03-06,CUST-1051,Shampoo,Beauty,Western Cape,2,8.99,0.0,In-store,Card
+ORD-10164,2025-12-08,CUST-1050,Perfume,Beauty,Gauteng,5,64.99,0.1,In-store,EFT
+ORD-10165,2025-07-28,CUST-1106,Coffee Maker,Home & Kitchen,Western Cape,5,89.99,0.0,Online,Cash
+ORD-10166,2025-02-01,CUST-1053,Headphones,Electronics,Eastern Cape,1,59.99,0.0,Online,Cash
+ORD-10167,2025-01-24,CUST-1104,Shampoo,Beauty,Eastern Cape,1,8.99,0.0,In-store,EFT
+ORD-10168,2025-08-03,CUST-1031,Keyboard,Electronics,KwaZulu-Natal,2,34.5,0.05,In-store,EFT
+ORD-10169,2025-08-17,CUST-1026,Blender,Home & Kitchen,KwaZulu-Natal,2,49.99,0.0,Online,Card
+ORD-10170,2025-01-23,CUST-1048,Wireless Mouse,Electronics,Free State,1,18.99,0.1,Online,Cash
+ORD-10171,2025-12-14,CUST-1118,Storage Set,Home & Kitchen,Eastern Cape,2,24.99,0.1,Online,Card
+ORD-10172,2025-01-03,CUST-1068,Sneakers,Clothing,KwaZulu-Natal,2,79.99,0.05,In-store,EFT
+ORD-10173,2025-05-16,CUST-1059,Headphones,Electronics,Gauteng,1,59.99,0.05,Online,EFT
+ORD-10174,2025-10-03,CUST-1033,Shampoo,Beauty,Gauteng,3,8.99,0.0,Online,Cash
+ORD-10175,2025-01-04,CUST-1026,Sneakers,Clothing,Eastern Cape,1,79.99,0.0,In-store,Card
+ORD-10176,2025-11-03,CUST-1113,Face Moisturiser,Beauty,Western Cape,3,16.99,0.0,Online,Cash
+ORD-10177,2025-11-22,CUST-1012,Keyboard,Electronics,Western Cape,4,34.5,0.0,Online,Card
+ORD-10178,2025-05-06,CUST-1044,Headphones,Electronics,Western Cape,5,59.99,0.0,Online,Card
+ORD-10179,2025-01-12,CUST-1112,Jeans,Clothing,Western Cape,2,54.99,0.1,Online,Card
+ORD-10180,2025-12-18,CUST-1091,Jeans,Clothing,Eastern Cape,1,54.99,0.1,In-store,Digital Wallet
+ORD-10181,2025-06-20,CUST-1114,Wireless Mouse,Electronics,KwaZulu-Natal,3,18.99,0.0,In-store,Card
+ORD-10182,2025-04-16,CUST-1117,Shampoo,Beauty,Gauteng,3,8.99,0.0,Online,Cash
+ORD-10183,2025-12-25,CUST-1013,Headphones,Electronics,Eastern Cape,2,59.99,0.0,In-store,Card
+ORD-10184,2025-05-19,CUST-1112,Blender,Home & Kitchen,Free State,3,49.99,0.05,Online,Card
+ORD-10185,2025-04-17,CUST-1080,Storage Set,Home & Kitchen,KwaZulu-Natal,3,24.99,0.0,Online,Card
+ORD-10186,2025-07-02,CUST-1087,Air Fryer,Home & Kitchen,Gauteng,1,119.0,0.0,Online,Cash
+ORD-10187,2025-12-21,CUST-1112,Hoodie,Clothing,KwaZulu-Natal,2,44.99,0.1,In-store,Card
+ORD-10188,2025-12-03,CUST-1070,Sunscreen,Beauty,Western Cape,2,13.5,0.1,Online,EFT
+ORD-10189,2025-02-25,CUST-1103,T-Shirt,Clothing,Gauteng,1,19.99,0.05,Online,Card
+ORD-10190,2025-12-27,CUST-1045,Sunscreen,Beauty,KwaZulu-Natal,2,13.5,0.1,Online,Card
+ORD-10191,2025-03-29,CUST-1116,T-Shirt,Clothing,Free State,3,19.99,0.0,Marketplace,Card
+ORD-10192,2025-02-12,CUST-1013,Sneakers,Clothing,,5,79.99,0.0,In-store,Cash
+ORD-10193,2025-12-08,CUST-1045,Perfume,Beauty,Gauteng,4,64.99,0.0,Online,EFT
+ORD-10194,2025-09-24,CUST-1105,Face Moisturiser,Beauty,Western Cape,2,16.99,0.0,In-store,Card
+ORD-10195,2025-02-11,CUST-1046,Hoodie,Clothing,KwaZulu-Natal,1,44.99,0.05,Online,Card
+ORD-10196,2025-07-29,CUST-1023,Storage Set,Home & Kitchen,Gauteng,2,24.99,0.0,Online,Digital Wallet
+ORD-10197,2025-03-31,CUST-1010,Coffee Maker,Home & Kitchen,KwaZulu-Natal,5,89.99,0.15,Marketplace,Cash
+ORD-10198,2025-03-16,CUST-1065,Coffee Maker,Home & Kitchen,Free State,3,89.99,0.0,Marketplace,Card
+ORD-10199,2025-05-22,CUST-1006,Hoodie,Clothing,Free State,2,44.99,0.1,In-store,Card
+ORD-10200,2025-09-21,CUST-1065,Wireless Mouse,Electronics,Free State,5,18.99,0.0,In-store,Card
+ORD-10201,2025-04-16,CUST-1038,Storage Set,Home & Kitchen,Western Cape,1,24.99,0.15,Online,Digital Wallet
+ORD-10202,2025-07-17,CUST-1100,Headphones,Electronics,Free State,5,59.99,0.05,In-store,Digital Wallet
+ORD-10203,2025-05-22,CUST-1066,USB-C Hub,Electronics,Eastern Cape,4,42.0,0.0,Marketplace,EFT
+ORD-10204,2025-04-13,CUST-1044,Blender,Home & Kitchen,Gauteng,3,49.99,0.0,Online,Card
+ORD-10205,2025-11-01,CUST-1074,Hoodie,Clothing,,3,44.99,0.1,Online,Card
+ORD-10206,2025-08-31,CUST-1113,Sunscreen,Beauty,Free State,2,13.5,0.0,Online,Card
+ORD-10207,2025-02-24,CUST-1069,USB-C Hub,Electronics,Free State,1,42.0,0.0,In-store,Cash
+ORD-10208,2025-08-26,CUST-1104,Headphones,Electronics,Free State,5,59.99,0.05,Online,Card
+ORD-10209,2025-11-07,CUST-1046,Keyboard,Electronics,Eastern Cape,3,34.5,0.1,In-store,Card
+ORD-10210,2025-03-01,CUST-1053,Coffee Maker,Home & Kitchen,Western Cape,4,89.99,0.05,In-store,Card
+ORD-10211,2025-08-03,CUST-1060,Sunscreen,Beauty,Gauteng,1,13.5,0.0,In-store,Card
+ORD-10212,2025-12-03,CUST-1051,Face Moisturiser,Beauty,Western Cape,3,16.99,0.0,In-store,Card
+ORD-10213,2025-01-07,CUST-1057,Hoodie,Clothing,Eastern Cape,1,44.99,0.15,Online,Card
+ORD-10214,2025-11-26,CUST-1052,Perfume,Beauty,KwaZulu-Natal,4,64.99,0.1,Marketplace,Cash
+ORD-10215,2025-12-06,CUST-1116,Blender,Home & Kitchen,Gauteng,4,49.99,0.05,Online,EFT
+ORD-10216,2025-07-14,CUST-1026,Coffee Maker,Home & Kitchen,KwaZulu-Natal,4,89.99,0.0,Online,Card
+ORD-10217,2025-09-25,CUST-1033,T-Shirt,Clothing,Western Cape,4,19.99,0.1,Marketplace,Card
+ORD-10218,2025-03-11,,Keyboard,Electronics,Eastern Cape,2,34.5,0.0,In-store,Card
+ORD-10219,2025-05-23,CUST-1033,Storage Set,Home & Kitchen,Gauteng,3,24.99,0.0,Online,Cash
+ORD-10220,2025-03-29,CUST-1094,T-Shirt,Clothing,KwaZulu-Natal,1,19.99,0.0,In-store,Card
+ORD-10221,2025-03-08,CUST-1022,Shampoo,Beauty,Gauteng,2,8.99,0.0,Online,Card
+ORD-10222,2025-05-14,CUST-1016,T-Shirt,Clothing,Gauteng,2,19.99,0.0,Online,Card
+ORD-10223,2025-05-14,CUST-1060,Headphones,Electronics,KwaZulu-Natal,4,59.99,0.1,Marketplace,Digital Wallet
+ORD-10224,2025-07-04,CUST-1095,Jeans,Clothing,Gauteng,5,54.99,0.1,Online,Card
+ORD-10225,2025-06-14,CUST-1069,Blender,Home & Kitchen,KwaZulu-Natal,3,49.99,0.0,In-store,Card
+ORD-10226,2025-10-09,CUST-1120,Wireless Mouse,Electronics,Eastern Cape,4,18.99,0.1,Marketplace,Card
+ORD-10227,2025-08-18,CUST-1113,Air Fryer,Home & Kitchen,Gauteng,2,119.0,0.05,In-store,Card
+ORD-10228,2025-08-18,CUST-1114,Wireless Mouse,Electronics,Gauteng,1,18.99,0.0,In-store,EFT
+ORD-10229,2025-12-24,CUST-1032,Headphones,Electronics,Free State,1,59.99,0.1,Online,EFT
+ORD-10230,2025-05-05,CUST-1116,Shampoo,Beauty,Gauteng,2,8.99,0.0,Online,Card
+ORD-10231,2025-07-31,CUST-1046,USB-C Hub,Electronics,Eastern Cape,4,42.0,0.1,Online,Card
+ORD-10232,2025-03-18,CUST-1025,Jeans,Clothing,Gauteng,5,54.99,0.0,In-store,Card
+ORD-10233,2025-03-28,CUST-1023,Blender,Home & Kitchen,Western Cape,4,49.99,0.0,Online,Card
+ORD-10234,2025-02-19,CUST-1118,Perfume,Beauty,Gauteng,4,64.99,0.05,Online,Digital Wallet
+ORD-10235,2025-12-20,CUST-1012,USB-C Hub,Electronics,Gauteng,4,42.0,0.1,Online,Card
+ORD-10236,2025-03-19,CUST-1109,Coffee Maker,Home & Kitchen,Eastern Cape,2,89.99,0.1,Online,Card
+ORD-10237,2025-07-07,CUST-1049,Keyboard,Electronics,Western Cape,1,34.5,0.1,In-store,Card
+ORD-10238,2025-06-08,CUST-1094,Wireless Mouse,Electronics,Western Cape,1,18.99,0.05,Marketplace,Digital Wallet
+ORD-10239,2025-11-10,CUST-1105,Face Moisturiser,Beauty,Gauteng,2,16.99,0.0,In-store,EFT
+ORD-10240,2025-02-08,CUST-1088,Wireless Mouse,Electronics,Gauteng,4,18.99,0.1,Marketplace,Cash
+ORD-10241,2025-08-15,CUST-1035,T-Shirt,Clothing,Western Cape,5,19.99,0.05,Online,Cash
+ORD-10242,2025-10-31,CUST-1095,Air Fryer,Home & Kitchen,Free State,3,119.0,0.0,Online,EFT
+ORD-10243,2025-05-03,CUST-1096,Jeans,Clothing,Free State,3,54.99,0.0,In-store,Digital Wallet
+ORD-10244,2025-08-29,CUST-1057,Shampoo,Beauty,Free State,2,8.99,0.05,Online,Card
+ORD-10245,2025-08-08,CUST-1046,Face Moisturiser,Beauty,Free State,2,16.99,0.1,Marketplace,Card
+ORD-10246,2025-04-18,CUST-1080,T-Shirt,Clothing,Eastern Cape,2,19.99,0.05,Online,Card
+ORD-10247,2025-06-23,CUST-1007,Jeans,Clothing,Gauteng,3,54.99,0.0,Marketplace,Card
+ORD-10248,2025-05-12,CUST-1090,Blender,Home & Kitchen,Gauteng,5,49.99,0.0,Marketplace,EFT
+ORD-10249,2025-05-30,CUST-1094,Shampoo,Beauty,Gauteng,2,8.99,0.0,Online,Card
+ORD-10250,2025-05-16,,Shampoo,Beauty,Gauteng,4,8.99,0.05,Online,Card
+ORD-10251,2025-11-02,CUST-1098,Jeans,Clothing,Gauteng,2,54.99,0.1,In-store,Card
+ORD-10252,2025-10-29,CUST-1040,Face Moisturiser,Beauty,Western Cape,5,16.99,0.1,Online,Card
+ORD-10253,2025-02-02,CUST-1009,Keyboard,Electronics,Western Cape,1,34.5,0.15,In-store,Cash
+ORD-10254,2025-04-23,CUST-1077,T-Shirt,Clothing,Gauteng,4,19.99,0.1,In-store,Card
+ORD-10255,2025-06-03,CUST-1096,Coffee Maker,Home & Kitchen,Gauteng,3,89.99,0.0,Online,Card
+ORD-10256,2025-08-24,CUST-1103,Perfume,Beauty,Western Cape,2,64.99,0.05,In-store,Card
+ORD-10257,2025-02-10,CUST-1036,Keyboard,Electronics,KwaZulu-Natal,4,34.5,0.1,Online,Cash
+ORD-10258,2025-12-04,CUST-1017,Jeans,Clothing,KwaZulu-Natal,4,54.99,0.05,In-store,EFT
+ORD-10259,2025-06-08,CUST-1011,USB-C Hub,Electronics,Western Cape,3,42.0,0.0,Online,EFT
+ORD-10260,2025-01-14,CUST-1092,USB-C Hub,Electronics,Gauteng,5,42.0,0.0,In-store,Cash
+ORD-10261,2025-08-23,CUST-1073,Sunscreen,Beauty,KwaZulu-Natal,3,13.5,0.0,Online,Cash
+ORD-10262,2025-07-23,CUST-1057,Air Fryer,Home & Kitchen,Free State,5,119.0,0.0,Online,Card
+ORD-10263,2025-08-24,CUST-1052,Wireless Mouse,Electronics,Eastern Cape,1,18.99,0.0,In-store,Card
+ORD-10264,2025-12-19,CUST-1021,Sneakers,Clothing,KwaZulu-Natal,1,79.99,0.1,Online,Cash
+ORD-10265,2025-04-02,CUST-1109,Blender,Home & Kitchen,Gauteng,4,49.99,0.0,In-store,Digital Wallet
+ORD-10266,2025-05-08,CUST-1031,Sunscreen,Beauty,Gauteng,2,13.5,0.0,In-store,Digital Wallet
+ORD-10267,2025-09-21,CUST-1104,Face Moisturiser,Beauty,Free State,3,16.99,0.05,Online,Cash
+ORD-10268,2025-03-30,CUST-1119,Face Moisturiser,Beauty,Free State,2,16.99,0.0,Marketplace,EFT
+ORD-10269,2025-01-30,CUST-1068,Wireless Mouse,Electronics,Gauteng,2,18.99,0.0,In-store,Card
+ORD-10270,2025-07-12,CUST-1016,Sneakers,Clothing,Western Cape,2,79.99,0.0,Marketplace,Card
+ORD-10271,2025-03-06,CUST-1003,Wireless Mouse,Electronics,Gauteng,4,18.99,0.05,Online,Cash
+ORD-10272,2025-12-03,CUST-1070,Headphones,Electronics,Western Cape,1,59.99,0.0,In-store,Card
+ORD-10273,2025-05-20,CUST-1009,T-Shirt,Clothing,Eastern Cape,3,19.99,0.0,Marketplace,Card
+ORD-10274,2025-09-06,CUST-1019,Headphones,Electronics,Western Cape,5,59.99,0.0,In-store,EFT
+ORD-10275,2025-07-24,CUST-1037,Sneakers,Clothing,Gauteng,5,79.99,0.0,Online,Card
+ORD-10276,2025-05-12,CUST-1003,Wireless Mouse,Electronics,Gauteng,2,18.99,0.05,In-store,Cash
+ORD-10277,2025-01-17,CUST-1013,Hoodie,Clothing,Gauteng,5,44.99,0.05,In-store,Card
+ORD-10278,2025-03-01,CUST-1050,USB-C Hub,Electronics,Western Cape,2,42.0,0.0,In-store,Digital Wallet
+ORD-10279,2025-04-21,CUST-1111,Headphones,Electronics,Free State,5,59.99,0.0,Online,EFT
+ORD-10280,2025-03-11,CUST-1067,Face Moisturiser,Beauty,Western Cape,5,16.99,0.15,In-store,Cash
+ORD-10281,2025-07-03,CUST-1019,Jeans,Clothing,KwaZulu-Natal,3,54.99,0.05,Online,EFT
+ORD-10282,2025-07-18,CUST-1038,Perfume,Beauty,Free State,3,64.99,0.0,In-store,Card
+ORD-10283,2025-08-05,CUST-1114,Keyboard,Electronics,KwaZulu-Natal,2,34.5,0.0,Online,Digital Wallet
+ORD-10284,2025-08-04,CUST-1075,Coffee Maker,Home & Kitchen,,5,89.99,0.0,Online,EFT
+ORD-10285,2025-09-02,CUST-1081,Perfume,Beauty,Gauteng,1,64.99,0.0,Online,Card
+ORD-10286,2025-01-10,CUST-1102,T-Shirt,Clothing,Gauteng,2,19.99,0.0,In-store,Card
+ORD-10287,2025-05-09,CUST-1107,Shampoo,Beauty,Gauteng,4,8.99,0.0,Online,Card
+ORD-10288,2025-06-15,CUST-1017,T-Shirt,Clothing,Gauteng,1,19.99,0.0,Online,Cash
+ORD-10289,2025-04-22,CUST-1045,Keyboard,Electronics,KwaZulu-Natal,1,34.5,0.05,Online,Card
+ORD-10290,2025-10-07,CUST-1098,Keyboard,Electronics,Gauteng,3,34.5,0.0,In-store,Cash
+ORD-10291,2025-11-08,CUST-1051,Headphones,Electronics,Western Cape,3,59.99,0.0,In-store,Digital Wallet
+ORD-10292,2025-11-26,CUST-1035,USB-C Hub,Electronics,Eastern Cape,4,42.0,0.1,In-store,Digital Wallet
+ORD-10293,2025-12-17,CUST-1066,Perfume,Beauty,Western Cape,1,64.99,0.0,Online,Digital Wallet
+ORD-10294,2025-07-07,CUST-1039,Wireless Mouse,Electronics,Gauteng,3,18.99,0.1,Marketplace,Card
+ORD-10295,2025-12-26,CUST-1032,Wireless Mouse,Electronics,Gauteng,1,18.99,0.1,Online,Card
+ORD-10296,2025-12-22,CUST-1032,Perfume,Beauty,Gauteng,3,64.99,0.15,Marketplace,Card
+ORD-10297,2025-05-01,CUST-1064,Keyboard,Electronics,Free State,5,34.5,0.0,Online,Card
+ORD-10298,2025-09-18,CUST-1082,Keyboard,Electronics,Western Cape,2,34.5,0.0,In-store,Card
+ORD-10299,2025-06-17,CUST-1056,Blender,Home & Kitchen,Gauteng,2,49.99,0.05,Marketplace,Cash
+ORD-10300,2025-09-28,CUST-1005,Wireless Mouse,Electronics,Gauteng,5,18.99,0.0,online,Card
+ORD-10301,2025-11-27,CUST-1113,Jeans,Clothing,KwaZulu-Natal,1,54.99,0.1,In-store,EFT
+ORD-10302,2025-02-10,CUST-1063,Shampoo,Beauty,Gauteng,2,8.99,0.0,Online,Cash
+ORD-10303,2025-04-05,CUST-1005,Wireless Mouse,Electronics,Western Cape,5,18.99,0.0,Online,Card
+ORD-10304,2025-11-30,CUST-1046,Keyboard,Electronics,Gauteng,2,34.5,0.0,Online,Card
+ORD-10305,2025-04-17,CUST-1091,Headphones,Electronics,Free State,1,59.99,0.0,Marketplace,Cash
+ORD-10306,2025-01-25,CUST-1092,Sneakers,Clothing,,2,79.99,0.1,Marketplace,Card
+ORD-10307,2025-01-25,CUST-1112,Hoodie,Clothing,Western Cape,5,44.99,0.0,Marketplace,EFT
+ORD-10308,2025-09-02,,Keyboard,Electronics,Eastern Cape,4,34.5,0.0,In-store,Digital Wallet
+ORD-10309,2025-11-07,CUST-1006,USB-C Hub,Electronics,Gauteng,2,42.0,0.0,Online,Card
+ORD-10310,2025-11-11,CUST-1108,Coffee Maker,Home & Kitchen,Gauteng,5,89.99,0.0,Online,Cash
+ORD-10311,2025-01-19,CUST-1019,Blender,Home & Kitchen,Gauteng,2,49.99,0.0,In-store,Card
+ORD-10312,2025-01-03,CUST-1095,Sunscreen,Beauty,Free State,2,13.5,0.15,In-store,Card
+ORD-10313,2025-04-21,CUST-1071,Air Fryer,Home & Kitchen,Gauteng,1,119.0,0.1,Marketplace,Card
+ORD-10314,2025-05-03,CUST-1072,Jeans,Clothing,Eastern Cape,4,54.99,0.0,Online,Cash
+ORD-10315,2025-05-26,CUST-1113,Wireless Mouse,Electronics,Eastern Cape,4,18.99,0.0,Online,Card
+ORD-10316,2025-06-21,CUST-1019,Jeans,Clothing,Western Cape,4,54.99,0.0,Marketplace,Card
+ORD-10317,2025-12-03,CUST-1011,Shampoo,Beauty,Western Cape,3,8.99,0.1,Marketplace,Digital Wallet
+ORD-10318,2025-09-27,CUST-1050,Blender,Home & Kitchen,Western Cape,2,49.99,0.0,Marketplace,Card
+ORD-10319,2025-02-12,CUST-1079,Hoodie,Clothing,Gauteng,1,44.99,0.0,In-store,Card
+ORD-10320,2025-06-28,CUST-1017,Sunscreen,Beauty,Gauteng,4,13.5,0.1,Online,Cash
+ORD-10321,2025-07-18,CUST-1031,Storage Set,Home & Kitchen,Gauteng,1,24.99,0.0,Online,Card
+ORD-10322,2025-09-10,CUST-1065,Jeans,Clothing,Eastern Cape,2,54.99,0.0,Online,Cash
+ORD-10323,2025-11-29,CUST-1096,Shampoo,Beauty,Western Cape,3,8.99,0.1,Online,EFT
+ORD-10324,2025-06-11,CUST-1068,Sunscreen,Beauty,Western Cape,3,13.5,0.0,In-store,Cash
+ORD-10325,2025-12-05,CUST-1074,Sneakers,Clothing,KwaZulu-Natal,5,79.99,0.05,In-store,Digital Wallet
+ORD-10326,2025-02-26,CUST-1104,Wireless Mouse,Electronics,KwaZulu-Natal,3,18.99,0.0,Online,Card
+ORD-10327,2025-09-10,CUST-1012,Air Fryer,Home & Kitchen,Eastern Cape,4,119.0,0.0,In-store,Card
+ORD-10328,2025-08-03,CUST-1074,Coffee Maker,Home & Kitchen,Gauteng,5,89.99,0.05,Online,Card
+ORD-10329,2025-12-15,CUST-1088,Hoodie,Clothing,Free State,1,44.99,0.0,In-store,Card
+ORD-10330,2025-10-15,CUST-1063,Storage Set,Home & Kitchen,Gauteng,3,24.99,0.0,In-store,Digital Wallet
+ORD-10331,2025-01-02,CUST-1022,Sunscreen,Beauty,Gauteng,1,13.5,0.0,Online,Card
+ORD-10332,2025-11-04,CUST-1004,Sneakers,Clothing,Western Cape,3,79.99,0.1,Online,Card
+ORD-10333,2025-02-14,CUST-1024,Keyboard,Electronics,KwaZulu-Natal,5,34.5,0.0,In-store,Cash
+ORD-10334,2025-09-26,CUST-1052,Blender,Home & Kitchen,KwaZulu-Natal,5,49.99,0.0,Marketplace,Card
+ORD-10335,2025-09-12,CUST-1009,Hoodie,Clothing,KwaZulu-Natal,1,44.99,0.0,Online,EFT
+ORD-10336,2025-01-28,CUST-1011,USB-C Hub,Electronics,Western Cape,5,42.0,0.1,Online,Digital Wallet
+ORD-10337,2025-04-15,CUST-1096,Keyboard,Electronics,Gauteng,3,34.5,0.0,In-store,Digital Wallet
+ORD-10338,2025-04-17,CUST-1058,Headphones,Electronics,Eastern Cape,5,59.99,0.0,In-store,EFT
+ORD-10339,2025-05-08,CUST-1063,USB-C Hub,Electronics,Gauteng,3,42.0,0.0,Online,Card
+ORD-10340,2025-10-22,CUST-1105,USB-C Hub,Electronics,KwaZulu-Natal,2,42.0,0.0,Online,EFT
+ORD-10341,2025-07-28,CUST-1002,Face Moisturiser,Beauty,Western Cape,2,16.99,0.0,In-store,Digital Wallet
+ORD-10342,2025-11-07,CUST-1072,Keyboard,Electronics,KwaZulu-Natal,4,34.5,0.0,Online,Card
+ORD-10343,2025-05-25,,T-Shirt,Clothing,Western Cape,5,19.99,0.0,In-store,Cash
+ORD-10344,2025-05-23,CUST-1097,Perfume,Beauty,Gauteng,4,64.99,0.1,In-store,Card
+ORD-10345,2025-11-28,CUST-1117,Air Fryer,Home & Kitchen,Gauteng,5,119.0,0.05,In-store,Cash
+ORD-10346,2025-02-20,CUST-1009,Keyboard,Electronics,Free State,2,34.5,0.0,Online,Card
+ORD-10347,2025-12-05,CUST-1088,Sneakers,Clothing,Western Cape,1,79.99,0.1,In-store,Cash
+ORD-10348,2025-11-17,CUST-1071,T-Shirt,Clothing,Gauteng,5,19.99,0.05,In-store,Digital Wallet
+ORD-10349,2025-09-03,CUST-1091,T-Shirt,Clothing,Free State,4,19.99,0.0,Online,Card
+ORD-10350,2025-01-22,CUST-1006,Jeans,Clothing,Gauteng,3,54.99,0.05,In-store,Cash
+ORD-10351,2025-04-15,CUST-1095,Hoodie,Clothing,KwaZulu-Natal,4,44.99,0.05,In-store,Cash
+ORD-10352,2025-12-23,CUST-1105,Wireless Mouse,Electronics,KwaZulu-Natal,2,18.99,0.0,Online,Cash
+ORD-10353,2025-05-19,CUST-1072,Wireless Mouse,Electronics,KwaZulu-Natal,4,18.99,0.1,online,Card
+ORD-10354,2025-04-07,CUST-1045,Face Moisturiser,Beauty,Western Cape,4,16.99,0.0,Online,Card
+ORD-10355,2025-12-26,CUST-1029,Storage Set,Home & Kitchen,Western Cape,5,24.99,0.0,Online,EFT
+ORD-10356,2025-07-29,CUST-1014,Storage Set,Home & Kitchen,KwaZulu-Natal,4,24.99,0.1,Marketplace,Card
+ORD-10357,2025-08-25,CUST-1063,USB-C Hub,Electronics,KwaZulu-Natal,5,42.0,0.1,Online,EFT
+ORD-10358,2025-10-10,CUST-1115,Coffee Maker,Home & Kitchen,Eastern Cape,1,89.99,0.05,Online,Card
+ORD-10359,2025-10-12,CUST-1078,Perfume,Beauty,Gauteng,5,64.99,0.0,Online,Card
+ORD-10360,2025-05-12,CUST-1018,Headphones,Electronics,Western Cape,2,59.99,0.1,In-store,Card
+ORD-10361,2025-10-09,CUST-1076,Keyboard,Electronics,Free State,3,34.5,0.0,Online,Digital Wallet
+ORD-10362,2025-07-16,CUST-1075,Sunscreen,Beauty,KwaZulu-Natal,5,13.5,0.05,In-store,Card
+ORD-10363,2025-02-22,CUST-1046,Sunscreen,Beauty,Western Cape,3,13.5,0.1,In-store,Cash
+ORD-10364,2025-02-20,CUST-1064,Air Fryer,Home & Kitchen,Gauteng,2,119.0,0.0,Marketplace,Card
+ORD-10365,2025-03-30,CUST-1060,Storage Set,Home & Kitchen,KwaZulu-Natal,2,24.99,0.0,Marketplace,Card
+ORD-10366,2025-04-04,CUST-1056,Sneakers,Clothing,Western Cape,1,79.99,0.0,In-store,EFT
+ORD-10367,2025-04-28,CUST-1048,T-Shirt,Clothing,Western Cape,3,19.99,0.05,Online,Cash
+ORD-10368,2025-08-22,CUST-1091,Shampoo,Beauty,Eastern Cape,1,8.99,0.05,In-store,Cash
+ORD-10369,2025-02-20,CUST-1112,Sneakers,Clothing,Western Cape,5,79.99,0.0,In-store,Card
+ORD-10370,2025-11-13,CUST-1041,Keyboard,Electronics,Western Cape,1,34.5,0.0,Online,Card
+ORD-10371,2025-11-12,CUST-1015,Hoodie,Clothing,Gauteng,5,44.99,0.05,Marketplace,Card
+ORD-10372,2025-06-09,CUST-1050,Storage Set,Home & Kitchen,KwaZulu-Natal,5,24.99,0.15,Online,EFT
+ORD-10373,2025-10-21,CUST-1028,Wireless Mouse,Electronics,KwaZulu-Natal,1,18.99,0.05,Online,Digital Wallet
+ORD-10374,2025-02-01,CUST-1033,Perfume,Beauty,Gauteng,3,64.99,0.1,Online,Digital Wallet
+ORD-10375,2025-11-28,CUST-1116,Sunscreen,Beauty,Western Cape,5,13.5,0.1,Marketplace,Cash
+ORD-10376,2025-01-22,CUST-1035,Air Fryer,Home & Kitchen,Gauteng,3,119.0,0.0,Online,Cash
+ORD-10377,2025-03-09,CUST-1052,Perfume,Beauty,Gauteng,4,64.99,0.0,Online,EFT
+ORD-10378,2025-12-29,CUST-1069,Headphones,Electronics,Eastern Cape,4,59.99,0.1,Online,Digital Wallet
+ORD-10379,2025-03-04,CUST-1102,Sneakers,Clothing,Free State,4,79.99,0.05,Online,EFT
+ORD-10380,2025-03-18,CUST-1048,T-Shirt,Clothing,KwaZulu-Natal,3,19.99,0.1,Online,Card
+ORD-10381,2025-07-26,CUST-1030,Perfume,Beauty,Gauteng,2,64.99,0.0,In-store,Digital Wallet
+ORD-10382,2025-04-21,CUST-1074,Headphones,Electronics,Gauteng,3,59.99,0.0,Online,Card
+ORD-10383,2025-10-14,CUST-1099,T-Shirt,Clothing,KwaZulu-Natal,3,19.99,0.0,Online,EFT
+ORD-10384,2025-08-31,CUST-1035,Shampoo,Beauty,KwaZulu-Natal,1,8.99,0.05,Online,EFT
+ORD-10385,2025-05-22,CUST-1046,Keyboard,Electronics,Eastern Cape,3,34.5,0.1,Marketplace,Digital Wallet
+ORD-10386,2025-12-11,CUST-1048,USB-C Hub,Electronics,Eastern Cape,5,42.0,0.0,In-store,Cash
+ORD-10387,2025-01-08,CUST-1057,Air Fryer,Home & Kitchen,Eastern Cape,5,119.0,0.05,Online,Card
+ORD-10388,2025-04-20,CUST-1030,Sneakers,Clothing,Western Cape,5,79.99,0.0,Marketplace,Card
+ORD-10389,2025-06-04,CUST-1067,Air Fryer,Home & Kitchen,Gauteng,5,119.0,0.0,In-store,Card
+ORD-10390,2025-11-04,CUST-1095,Blender,Home & Kitchen,Western Cape,1,49.99,0.05,Online,Digital Wallet
+ORD-10391,2025-01-13,CUST-1041,Headphones,Electronics,Gauteng,2,59.99,0.05,Online,Card
+ORD-10392,2025-12-28,CUST-1012,Blender,Home & Kitchen,Eastern Cape,4,49.99,0.05,Online,EFT
+ORD-10393,2025-10-10,CUST-1023,Blender,Home & Kitchen,Gauteng,4,49.99,0.0,Online,Card
+ORD-10394,2025-07-27,CUST-1106,Hoodie,Clothing,Eastern Cape,5,44.99,0.0,Marketplace,EFT
+ORD-10395,2025-10-02,CUST-1111,Hoodie,Clothing,Western Cape,3,44.99,0.05,Online,Card
+ORD-10396,2025-01-21,CUST-1101,Perfume,Beauty,Free State,3,64.99,0.05,Online,EFT
+ORD-10397,2025-08-08,CUST-1043,Face Moisturiser,Beauty,KwaZulu-Natal,1,16.99,0.1,In-store,Card
+ORD-10398,2025-02-03,CUST-1077,Keyboard,Electronics,Gauteng,1,34.5,0.0,Online,EFT
+ORD-10399,2025-06-15,CUST-1047,Hoodie,Clothing,Eastern Cape,3,44.99,0.1,Online,EFT
+ORD-10400,2025-07-12,CUST-1076,Sunscreen,Beauty,Gauteng,5,13.5,0.05,In-store,EFT
+ORD-10401,2025-06-14,CUST-1072,Face Moisturiser,Beauty,Western Cape,3,16.99,0.0,Online,Card
+ORD-10402,2025-01-08,CUST-1006,Sneakers,Clothing,Eastern Cape,1,79.99,0.0,In-store,Card
+ORD-10403,2025-10-07,CUST-1072,Keyboard,Electronics,Gauteng,3,34.5,0.0,Marketplace,Card
+ORD-10404,2025-12-22,CUST-1118,Hoodie,Clothing,KwaZulu-Natal,1,44.99,0.15,Online,Card
+ORD-10405,2025-11-11,,Perfume,Beauty,Gauteng,4,64.99,0.0,In-store,EFT
+ORD-10406,2025-07-10,CUST-1045,Sneakers,Clothing,Western Cape,4,79.99,0.0,In-store,Card
+ORD-10407,2025-05-16,CUST-1071,Storage Set,Home & Kitchen,Western Cape,2,24.99,0.0,Online,EFT
+ORD-10408,2025-04-24,CUST-1098,Air Fryer,Home & Kitchen,Gauteng,2,119.0,0.0,In-store,Digital Wallet
+ORD-10409,2025-01-03,CUST-1055,Sneakers,Clothing,Gauteng,3,79.99,0.05,In-store,Card
+ORD-10410,2025-11-04,CUST-1050,Keyboard,Electronics,KwaZulu-Natal,3,34.5,0.0,Marketplace,Card
+ORD-10411,2025-06-08,CUST-1030,Sneakers,Clothing,Western Cape,3,79.99,0.0,Online,Card
+ORD-10412,2025-02-15,CUST-1020,Blender,Home & Kitchen,Western Cape,3,49.99,0.0,In-store,Card
+ORD-10413,2025-06-29,CUST-1113,Jeans,Clothing,Western Cape,2,54.99,0.0,Online,Card
+ORD-10414,2025-07-18,CUST-1119,Perfume,Beauty,Western Cape,4,64.99,0.05,Marketplace,Card
+ORD-10415,2025-06-09,CUST-1112,Hoodie,Clothing,Western Cape,3,44.99,0.0,Marketplace,Card
+ORD-10416,2025-05-29,CUST-1111,Jeans,Clothing,KwaZulu-Natal,5,54.99,0.0,In-store,Card
+ORD-10417,2025-05-01,CUST-1019,T-Shirt,Clothing,Gauteng,4,19.99,0.0,Marketplace,Card
+ORD-10418,2025-11-15,CUST-1020,Sneakers,Clothing,KwaZulu-Natal,5,79.99,0.0,Online,Cash
+ORD-10419,2025-05-05,CUST-1084,Jeans,Clothing,KwaZulu-Natal,3,54.99,0.0,Online,Cash
+ORD-10420,2025-09-27,CUST-1039,Sunscreen,Beauty,Western Cape,4,13.5,0.0,Online,Card
+ORD-10421,2025-12-28,CUST-1021,Sunscreen,Beauty,Gauteng,2,13.5,0.1,Online,Card
+ORD-10422,2025-12-06,CUST-1019,Face Moisturiser,Beauty,Eastern Cape,5,16.99,0.1,Online,Digital Wallet
+ORD-10423,2025-07-11,CUST-1002,Coffee Maker,Home & Kitchen,Gauteng,2,89.99,0.0,Marketplace,EFT
+ORD-10424,2025-02-11,CUST-1031,Sunscreen,Beauty,KwaZulu-Natal,1,13.5,0.05,Online,Card
+ORD-10425,2025-03-14,CUST-1079,Sneakers,Clothing,Western Cape,1,79.99,0.0,Marketplace,Cash
+ORD-10426,2025-03-21,CUST-1086,Face Moisturiser,Beauty,Eastern Cape,4,16.99,0.05,In-store,Card
+ORD-10427,2025-09-30,CUST-1029,Headphones,Electronics,Western Cape,4,59.99,0.0,In-store,Card
+ORD-10428,2025-02-21,CUST-1038,Hoodie,Clothing,KwaZulu-Natal,4,44.99,0.1,In-store,Card
+ORD-10429,2025-10-02,CUST-1012,T-Shirt,Clothing,Eastern Cape,2,19.99,0.15,In-store,Card
+ORD-10430,2025-08-28,CUST-1071,T-Shirt,Clothing,Western Cape,1,19.99,0.1,Online,EFT
+ORD-10431,2025-06-13,CUST-1084,Blender,Home & Kitchen,Gauteng,5,49.99,0.1,In-store,Digital Wallet
+ORD-10432,2025-05-26,CUST-1048,Headphones,Electronics,KwaZulu-Natal,2,59.99,0.0,Online,Cash
+ORD-10433,2025-11-07,CUST-1104,Blender,Home & Kitchen,KwaZulu-Natal,1,49.99,0.0,Online,EFT
+ORD-10434,2025-02-24,CUST-1119,Keyboard,Electronics,KwaZulu-Natal,2,34.5,0.0,In-store,Card
+ORD-10435,2025-03-28,CUST-1111,Headphones,Electronics,Eastern Cape,4,59.99,0.0,Online,EFT
+ORD-10436,2025-09-06,CUST-1111,Face Moisturiser,Beauty,Gauteng,3,16.99,0.05,Marketplace,Card
+ORD-10437,2025-11-12,CUST-1060,T-Shirt,Clothing,KwaZulu-Natal,4,19.99,0.05,Online,Card
+ORD-10438,2025-02-20,CUST-1030,Wireless Mouse,Electronics,Eastern Cape,3,18.99,0.0,Online,Card
+ORD-10439,2025-01-24,CUST-1054,Air Fryer,Home & Kitchen,Western Cape,1,119.0,0.05,Marketplace,EFT
+ORD-10440,2025-08-29,CUST-1041,T-Shirt,Clothing,KwaZulu-Natal,5,19.99,0.1,In-store,Card
+ORD-10441,2025-04-21,CUST-1094,Wireless Mouse,Electronics,Eastern Cape,1,18.99,0.05,Online,Card
+ORD-10442,2025-05-23,CUST-1105,Air Fryer,Home & Kitchen,Free State,3,119.0,0.1,Marketplace,Digital Wallet
+ORD-10443,2025-04-28,CUST-1047,Storage Set,Home & Kitchen,Gauteng,1,24.99,0.0,Online,Digital Wallet
+ORD-10444,2025-04-17,CUST-1077,Wireless Mouse,Electronics,KwaZulu-Natal,5,18.99,0.1,Online,Cash
+ORD-10445,2025-09-06,CUST-1031,Wireless Mouse,Electronics,,5,18.99,0.0,In-store,Card
+ORD-10446,2025-10-24,CUST-1033,T-Shirt,Clothing,Gauteng,1,19.99,0.05,Online,Card
+ORD-10447,2025-09-07,CUST-1024,Storage Set,Home & Kitchen,KwaZulu-Natal,3,24.99,0.0,Online,EFT
+ORD-10448,2025-07-17,CUST-1012,Face Moisturiser,Beauty,Western Cape,3,16.99,0.1,In-store,EFT
+ORD-10449,2025-01-15,CUST-1046,Perfume,Beauty,Gauteng,1,64.99,0.1,Online,Digital Wallet
+ORD-10450,2025-01-13,CUST-1089,Keyboard,Electronics,KwaZulu-Natal,5,34.5,0.05,Marketplace,Card
+ORD-10451,2025-10-22,CUST-1015,Wireless Mouse,Electronics,Western Cape,3,18.99,0.0,Online,Card
+ORD-10452,2025-10-11,CUST-1118,USB-C Hub,Electronics,Free State,5,42.0,0.0,Online,EFT
+ORD-10453,2025-01-25,CUST-1023,T-Shirt,Clothing,Western Cape,4,19.99,0.0,In-store,Digital Wallet
+ORD-10454,2025-06-24,CUST-1082,T-Shirt,Clothing,Western Cape,4,19.99,0.15,Marketplace,Card
+ORD-10455,2025-10-05,CUST-1031,Wireless Mouse,Electronics,Gauteng,3,18.99,0.1,Online,Card
+ORD-10456,2025-02-22,CUST-1018,USB-C Hub,Electronics,Gauteng,4,42.0,0.1,Online,Card
+ORD-10457,2025-10-05,CUST-1047,Jeans,Clothing,KwaZulu-Natal,4,54.99,0.05,Online,Card
+ORD-10458,2025-10-24,CUST-1111,Perfume,Beauty,KwaZulu-Natal,4,64.99,0.1,Marketplace,Card
+ORD-10459,2025-12-25,CUST-1012,Wireless Mouse,Electronics,Gauteng,1,18.99,0.0,In-store,EFT
+ORD-10460,2025-04-03,CUST-1043,Hoodie,Clothing,Western Cape,1,44.99,0.05,Online,Card
+ORD-10461,2025-04-16,CUST-1084,Headphones,Electronics,Western Cape,5,59.99,0.1,In-store,EFT
+ORD-10462,2025-03-03,CUST-1053,Keyboard,Electronics,Western Cape,4,34.5,0.0,In-store,Card
+ORD-10463,2025-03-30,CUST-1035,Wireless Mouse,Electronics,Gauteng,1,18.99,0.15,Online,Digital Wallet
+ORD-10464,2025-02-18,CUST-1014,Hoodie,Clothing,KwaZulu-Natal,5,44.99,0.0,Online,EFT
+ORD-10465,2025-07-06,CUST-1067,Shampoo,Beauty,Gauteng,3,8.99,0.15,In-store,Card
+ORD-10466,2025-04-10,CUST-1068,Face Moisturiser,Beauty,Western Cape,1,16.99,0.0,Online,EFT
+ORD-10467,2025-01-24,CUST-1028,Wireless Mouse,Electronics,Western Cape,3,18.99,0.0,In-store,Digital Wallet
+ORD-10468,2025-03-05,CUST-1077,USB-C Hub,Electronics,KwaZulu-Natal,5,42.0,0.05,In-store,EFT
+ORD-10469,2025-12-15,CUST-1013,Blender,Home & Kitchen,KwaZulu-Natal,3,49.99,0.0,Online,Card
+ORD-10470,2025-01-12,CUST-1076,Wireless Mouse,Electronics,Gauteng,1,18.99,0.05,Online,Card
+ORD-10471,2025-07-19,CUST-1059,Air Fryer,Home & Kitchen,Gauteng,4,119.0,0.05,Marketplace,EFT
+ORD-10472,2025-02-19,CUST-1114,Storage Set,Home & Kitchen,Gauteng,3,24.99,0.0,Online,Digital Wallet
+ORD-10473,2025-03-17,CUST-1004,Jeans,Clothing,KwaZulu-Natal,1,54.99,0.0,Online,Digital Wallet
+ORD-10474,2025-06-09,CUST-1036,Perfume,Beauty,Western Cape,3,64.99,0.05,In-store,Card
+ORD-10475,2025-12-21,CUST-1053,USB-C Hub,Electronics,KwaZulu-Natal,2,42.0,0.0,In-store,Cash
+ORD-10476,2025-11-20,CUST-1061,Sunscreen,Beauty,Western Cape,3,13.5,0.1,Marketplace,Card
+ORD-10477,2025-03-10,CUST-1043,Wireless Mouse,Electronics,Gauteng,2,18.99,0.0,Marketplace,Card
+ORD-10478,2025-05-17,CUST-1019,Coffee Maker,Home & Kitchen,Western Cape,2,89.99,0.1,In-store,EFT
+ORD-10479,2025-05-01,CUST-1048,Face Moisturiser,Beauty,Western Cape,3,16.99,0.1,Online,Card
+ORD-10480,2025-07-26,CUST-1068,Coffee Maker,Home & Kitchen,Gauteng,3,89.99,0.0,In-store,EFT
+ORD-10481,2025-11-12,CUST-1072,Coffee Maker,Home & Kitchen,Gauteng,2,89.99,0.05,Online,EFT
+ORD-10482,2025-01-01,CUST-1108,Jeans,Clothing,,1,54.99,0.0,Marketplace,Card
+ORD-10483,2025-08-29,CUST-1110,Air Fryer,Home & Kitchen,Gauteng,3,119.0,0.0,Marketplace,Card
+ORD-10484,2025-07-08,CUST-1025,Shampoo,Beauty,KwaZulu-Natal,5,8.99,0.05,In-store,Digital Wallet
+ORD-10485,2025-05-25,CUST-1084,Coffee Maker,Home & Kitchen,Free State,2,89.99,0.0,Online,EFT
+ORD-10486,2025-01-28,CUST-1084,Sunscreen,Beauty,KwaZulu-Natal,1,13.5,0.0,Online,Digital Wallet
+ORD-10487,2025-10-25,CUST-1098,Blender,Home & Kitchen,Gauteng,5,49.99,0.1,Online,Cash
+ORD-10488,2025-07-17,CUST-1062,USB-C Hub,Electronics,Western Cape,4,42.0,0.0,Online,Card
+ORD-10489,2025-01-24,CUST-1103,T-Shirt,Clothing,Eastern Cape,4,19.99,0.0,Online,Cash
+ORD-10490,2025-09-05,CUST-1011,Blender,Home & Kitchen,Eastern Cape,1,49.99,0.0,Marketplace,EFT
+ORD-10491,2025-06-13,CUST-1030,T-Shirt,Clothing,Western Cape,3,19.99,0.15,In-store,Card
+ORD-10492,2025-04-26,CUST-1032,Blender,Home & Kitchen,Western Cape,1,49.99,0.05,Online,Card
+ORD-10493,2025-09-13,CUST-1091,Face Moisturiser,Beauty,Gauteng,2,16.99,0.05,In-store,EFT
+ORD-10494,2025-02-28,CUST-1119,Hoodie,Clothing,Eastern Cape,1,44.99,0.0,online,Digital Wallet
+ORD-10495,2025-06-22,CUST-1095,Wireless Mouse,Electronics,Western Cape,4,18.99,0.0,Online,EFT
+ORD-10496,2025-06-26,CUST-1038,Face Moisturiser,Beauty,Free State,4,16.99,0.0,Online,Card
+ORD-10497,2025-09-09,CUST-1052,Jeans,Clothing,Eastern Cape,3,54.99,0.05,Marketplace,Digital Wallet
+ORD-10498,2025-01-30,CUST-1101,Jeans,Clothing,KwaZulu-Natal,3,54.99,0.05,In-store,EFT
+ORD-10499,2025-08-14,CUST-1060,Jeans,Clothing,KwaZulu-Natal,4,54.99,0.0,Online,Digital Wallet
+ORD-10500,2025-03-26,CUST-1087,Jeans,Clothing,KwaZulu-Natal,1,54.99,0.1,Online,Digital Wallet
+ORD-10022,2025-05-13,CUST-1100,Storage Set,Home & Kitchen,Eastern Cape,3,24.99,0.0,Online,Cash
+ORD-10089,2025-04-19,CUST-1005,Hoodie,Clothing,Eastern Cape,2,44.99,0.0,In-store,Digital Wallet
+ORD-10144,2025-10-15,CUST-1076,Storage Set,Home & Kitchen,Gauteng,1,24.99,0.0,Marketplace,Card
